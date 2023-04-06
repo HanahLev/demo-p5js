@@ -113,11 +113,11 @@ html, body {
   }
 
   .active-up {
-    border-bottom: 15px solid #a8af95;
+    border-bottom: 15px solid #64675b;
   }
 
   .active-right {
-    border-left: 15px solid #64675b
+    border-left: 15px solid #64675b;
   }
 
   .active-down {
